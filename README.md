@@ -38,5 +38,9 @@ This project analyzes road accident data to convert raw records into actionable 
 - Certain road types and road surface conditions consistently show higher casualty counts, indicating infrastructure-related risk factors.
 - Specific districts show repeated high accident concentrations, identifying them as priority areas for targeted safety interventions.
 - Accident severity is not driven by a single factor but by a combination of vehicle type, road condition, weather, and location.
+
+## 🎯 Insight Summary
+
+The analysis reveals that traffic density, vehicle type, and road infrastructure play a more critical role in accident severity than weather alone. These insights can help authorities prioritize urban traffic management, vehicle safety awareness, and infrastructure improvements.
  
 
