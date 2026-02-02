@@ -25,6 +25,10 @@ The dashboard helps stakeholders understand risk factors, accident trends, and h
 ## Process
 This project analyzes road accident data to convert raw records into actionable insights using Microsoft Excel. The process began with problem definition and data understanding, followed by thorough data cleaning using TRIM, CLEAN, SUBSTITUTE, and IFERROR to ensure accuracy and consistency. Cleaned data was transformed to create key metrics such as total accidents, casualties, vehicles involved, and average casualties per accident. Exploratory analysis was performed through Pivot Tables to study severity, vehicle involvement, urban–rural patterns, environmental conditions, and location risks. Key KPIs were defined and mapped to calculations. An interactive dashboard was designed using KPI cards, charts, and slicers for dynamic filtering. Automation and refresh ensured scalability. The final dashboard highlights high-risk factors, supports data-driven road safety decisions, and demonstrates skills.
 
+## Snapshort of Road Accidents Analysis Dashboard
+<img width="1606" height="977" alt="Screenshot 2026-01-29 225110" src="https://github.com/user-attachments/assets/b0e57138-d119-4796-bae6-b1f8ca65eeed" />
+  
+
 
 .
 
