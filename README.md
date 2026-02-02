@@ -20,6 +20,6 @@ The dashboard helps stakeholders understand risk factors, accident trends, and h
 - What combinations of vehicle type, road condition, and weather create the highest accident risk?
 - What key factors most strongly influence accident severity and casualty outcomes based on the overall analysis?
 
- Dashboard Interaction <a href="https://github.com/Raginiyadav24/Road-Accidents-Analysis-Dashboard/blob/main/Accident_Dashboard.xlsx">View Coffe Sales Dashboard</a>
+ Dashboard Interaction <a href="https://github.com/Raginiyadav24/Road-Accidents-Analysis-Dashboard/blob/main/Accident_Dashboard.xlsx">Road-Accidents-Analysis-Dashboard</a>
  
 
