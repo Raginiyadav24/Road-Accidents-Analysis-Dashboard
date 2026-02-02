@@ -1,2 +1,8 @@
 # Road-Accidents-Analysis-Dashboard
-The Road Accident Analysis Dashboard is an interactive data visualization tool that provides insights into traffic accidents using historical accident data. The dashboard allows users to explore trends and patterns in road accidents by location, time, severity, and contributing factors.
+This project presents a comprehensive analysis of road accident data using Microsoft Excel.
+The objective is to analyze accident patterns based on severity, time, location, road conditions, weather, vehicle type, and casualties, and present insights through an interactive Excel dashboard.
+
+The dashboard helps stakeholders understand risk factors, accident trends, and high-impact conditions, enabling data-driven decision making for road safety improvements.
+
+## Dataset Used
+- <a href="https://github.com/Raginiyadav24/Coffee-Sales-Dashboard-Excel/blob/main/DataSet_Of_Coffee_Sales_Dashboard.xlsx">Road-Accidents-Analysis-Dataset</a>
