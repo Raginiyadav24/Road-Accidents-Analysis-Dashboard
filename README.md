@@ -24,5 +24,19 @@ The dashboard helps stakeholders understand risk factors, accident trends, and h
  
 ## Process
 This project analyzes road accident data to convert raw records into actionable insights using Microsoft Excel. The process began with problem definition and data understanding, followed by thorough data cleaning using TRIM, CLEAN, SUBSTITUTE, and IFERROR to ensure accuracy and consistency. Cleaned data was transformed to create key metrics such as total accidents, casualties, vehicles involved, and average casualties per accident. Exploratory analysis was performed through Pivot Tables to study severity, vehicle involvement, urban–rural patterns, environmental conditions, and location risks. Key KPIs were defined and mapped to calculations. An interactive dashboard was designed using KPI cards, charts, and slicers for dynamic filtering. Automation and refresh ensured scalability. The final dashboard highlights high-risk factors, supports data-driven road safety decisions, and demonstrates skills.
+
+
+.
+
+## 📊 Project Insights – Road Accidents Analysis Dashboard
+
+- Urban areas report a significantly higher number of road accidents compared to rural areas, indicating higher traffic density and exposure risk in urban regions.
+- Cars and two-wheelers are involved in the majority of accidents, making them the most vulnerable vehicle categories in road safety analysis.
+- Although adverse weather contributes to accidents, a large proportion of accidents occur during fine weather, suggesting that human behavior and traffic volume are major contributing factors.
+- Daylight conditions record more accidents than darkness, highlighting that accident frequency is influenced more by traffic volume than visibility alone.
+- Serious and fatal accidents contribute disproportionately to total casualties, even though they occur less frequently than slight accidents.
+- Certain road types and road surface conditions consistently show higher casualty counts, indicating infrastructure-related risk factors.
+- Specific districts show repeated high accident concentrations, identifying them as priority areas for targeted safety interventions.
+- Accident severity is not driven by a single factor but by a combination of vehicle type, road condition, weather, and location.
  
 
